@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Shashark!</h1>  
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <img src="https://github.com/shafarois/shafarois/blob/main/null-PvzW_W0Vf6kF2IQT-ezgif.com-video-to-gif-converter.gif" width="30">
 </p>
 
 ## 💾 About Me  
